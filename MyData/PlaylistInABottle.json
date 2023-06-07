@@ -1,0 +1,21 @@
+{
+  "vessel" : "LUNCH_BOX",
+  "responses" : [
+    {
+      "question" : "questions_question7",
+      "answer" : "spotify:track:4wVOKKEHUJxHCFFNUWDn0B"
+    },
+    {
+      "question" : "questions_question2",
+      "answer" : "spotify:track:7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "question" : "questions_question17",
+      "answer" : "spotify:track:2Yv2mHzr5AQavVdwQjEokV"
+    },
+    {
+      "question" : "questions_question4",
+      "answer" : "spotify:track:63bAGRSSX2V1hhPSP2NpBC"
+    }
+  ]
+}
